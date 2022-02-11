@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>导航栏通用_icon_返回_白</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="个人中心" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="我的4" transform="translate(-15.000000, -33.000000)">
+            <g id="导航栏通用_icon_返回" transform="translate(15.000000, 33.000000)">
+                <rect id="Rectangle" stroke="#FFFFFF" opacity="0.0199999996" x="0.5" y="0.5" width="15" height="15"></rect>
+                <path d="M11.0074958,0.319256141 L3.23740462,7.28097003 C2.79965301,7.67260162 2.79965301,8.32639316 3.23740462,8.7196331 L11.0074958,15.6797386 C11.4840246,16.1067538 12.2363025,16.1067538 12.7128313,15.6797386 C13.216935,15.2277942 13.216935,14.4750895 12.7128313,14.0223409 L6.20515375,8.1920965 C6.08709869,8.08675002 6.08709869,7.91224477 6.20515375,7.80689828 L12.7128313,1.97665389 C13.216935,1.52470943 13.216935,0.772004775 12.7128313,0.319256141 C12.474136,0.106954828 12.1673652,0 11.8605944,0 C11.5529619,0 11.246191,0.106954828 11.0074958,0.319256141 Z" id="ic_返回" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>共享设备_icon_冲击钻 copy 5@1x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="设备租用" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="共享设备-订单-4" transform="translate(-15.000000, -517.000000)">
+            <g id="共享设备_icon_冲击钻-copy-5" transform="translate(15.000000, 517.000000)">
+                <rect id="Rectangle-5" fill="#FFFFFF" opacity="0.00999999978" x="0" y="0" width="44" height="44"></rect>
+                <g id="Group-2" transform="translate(0.000000, 3.000000)">
+                    <rect id="Rectangle-12" fill="#FFA93A" x="0" y="0" width="29.3333333" height="18.972973" rx="2"></rect>
+                    <rect id="Rectangle-19" fill="#FFA93A" x="27.2380952" y="4.21621622" width="9.42857143" height="11.5945946" rx="2"></rect>
+                    <rect id="Rectangle-20" fill="#FFA93A" x="34.5714286" y="7.37837838" width="9.42857143" height="3.16216216" rx="1.58108108"></rect>
+                    <path d="M6.49026098,15.8108108 L12.0150426,15.8108108 C13.1196121,15.8108108 14.0150426,16.7062413 14.0150426,17.8108108 C14.0150426,17.9428487 14.0019672,18.0745621 13.9760078,18.204023 L11.1849898,32.1229419 C10.9976269,33.0573284 10.1770111,33.7297297 9.22402473,33.7297297 L3.69924307,33.7297297 C2.59467357,33.7297297 1.69924307,32.8342992 1.69924307,31.7297297 C1.69924307,31.5976918 1.7123185,31.4659784 1.73827796,31.3365175 L4.52929587,17.4175986 C4.7166588,16.4832121 5.53727464,15.8108108 6.49026098,15.8108108 Z" id="Rectangle-21" fill="#FFA93A"></path>
+                    <polygon id="Rectangle-25" fill="#F59820" points="4.25128464 18.972973 13.8285842 18.972973 13.375622 21.0810811 3.80452474 21.0810811"></polygon>
+                    <rect id="Rectangle-22" fill="#FFA93A" x="0" y="30.5675676" width="16.7619048" height="8.43243243" rx="1"></rect>
+                    <polygon id="Rectangle-23" fill="#F59820" points="24.0952381 0 26.1904762 0 26.1904762 18.972973 24.0952381 18.972973"></polygon>
+                    <rect id="Rectangle-24" fill="#F59820" x="30.3809524" y="4.21621622" width="2.0952381" height="11.5945946"></rect>
+                    <polygon id="Rectangle-26" fill="#F59820" points="2.42338635 28.470525 11.8184524 28.470525 11.4958031 30.5675676 1.9138358 30.5675676"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="58px" height="46px" viewBox="0 0 58 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>访客登记_icon_无访客</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="访客登记" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="访客登记-无通行记录-11" transform="translate(-159.000000, -114.000000)">
+            <g id="访客登记_icon_无访客" transform="translate(159.000000, 114.000000)">
+                <rect id="Rectangle-3" fill="#FFFFFF" opacity="0" x="0" y="0" width="58" height="46"></rect>
+                <g id="Group" transform="translate(6.000000, 8.000000)">
+                    <circle id="Oval" fill="#FFA93A" cx="5.5" cy="5.5" r="5.5"></circle>
+                    <circle id="Oval" fill="#FFA93A" cx="39.5" cy="5.5" r="5.5"></circle>
+                    <path d="M6,31 C11.6666667,25.6666667 17.3333333,23 23,23 C28.6666667,23 34.3333333,25.6666667 40,31" id="Path-2" stroke="#FFA93A" stroke-width="5" stroke-linecap="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

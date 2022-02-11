@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>共享设备_icon_电烤箱@1x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="共享设备1" transform="translate(-15.000000, -320.000000)">
+            <g id="Group-3" transform="translate(0.000000, 292.000000)">
+                <g id="共享设备_icon_电烤箱" transform="translate(15.000000, 28.000000)">
+                    <rect id="Rectangle-3" fill="#D8D8D8" opacity="0.0199999996" x="0" y="0" width="44" height="44"></rect>
+                    <g id="Group-13" transform="translate(0.000000, 5.000000)">
+                        <path d="M6,30 L14,30 L14,31 C14,33.209139 12.209139,35 10,35 L10,35 C7.790861,35 6,33.209139 6,31 L6,30 Z" id="Rectangle-32" fill="#6060F6"></path>
+                        <path d="M28,30 L36,30 L36,31 C36,33.209139 34.209139,35 32,35 L32,35 C29.790861,35 28,33.209139 28,31 L28,30 Z" id="Rectangle-32" fill="#6060F6"></path>
+                        <path d="M7,0 L37,0 C40.8659932,-7.10171439e-16 44,3.13400675 44,7 L44,29 C44,30.1045695 43.1045695,31 42,31 L2,31 C0.8954305,31 1.3527075e-16,30.1045695 0,29 L0,7 C-4.73447626e-16,3.13400675 3.13400675,7.10171439e-16 7,0 Z" id="Rectangle-30" fill="#8282FC"></path>
+                        <path d="M8,11 L28,11 C29.6568542,11 31,12.3431458 31,14 L31,21 C31,22.6568542 29.6568542,24 28,24 L8,24 C6.34314575,24 5,22.6568542 5,21 L5,14 C5,12.3431458 6.34314575,11 8,11 Z" id="Rectangle-31" fill="#B0B0FA"></path>
+                        <circle id="Oval-9" fill="#FFFFFF" cx="37" cy="13" r="2"></circle>
+                        <circle id="Oval-9" fill="#FFFFFF" cx="37" cy="21" r="2"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

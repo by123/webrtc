@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_物管</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="28" height="22" rx="2"></rect>
+        <filter x="-20.7%" y="-10.3%" width="141.4%" height="120.7%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="0.689174107" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-77.2%" y="-43.6%" width="254.4%" height="187.3%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="3.34542411" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-295.000000, -568.000000)">
+            <g id="物业服务-copy" transform="translate(0.000000, 351.000000)">
+                <g id="icon_物管" transform="translate(295.000000, 217.000000)">
+                    <rect id="Rectangle-33-Copy-5" fill-opacity="0" fill="#D8D8D8" x="0" y="0" width="36" height="36"></rect>
+                    <g id="呼叫物管" transform="translate(4.000000, 6.000000)">
+                        <g id="Rectangle-27" transform="translate(0.000000, 3.000000)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="Mask" fill="#AFA2FF" fill-rule="nonzero" xlink:href="#path-1"></use>
+                            <rect fill="#AC9FF9" fill-rule="nonzero" filter="url(#filter-3)" mask="url(#mask-2)" x="2" y="-2" width="10" height="20" rx="2"></rect>
+                            <rect id="Rectangle-26" fill="#C6BDFF" fill-rule="nonzero" filter="url(#filter-4)" mask="url(#mask-2)" x="16" y="0" width="13" height="23"></rect>
+                        </g>
+                        <rect id="Rectangle-27" fill="#9685FF" fill-rule="nonzero" x="3" y="0" width="8" height="20" rx="2"></rect>
+                        <rect id="Rectangle-28" fill="#F3F1FF" fill-rule="nonzero" x="14" y="7" width="14" height="6"></rect>
+                        <rect id="Rectangle-29" fill="#F3F1FF" fill-rule="nonzero" x="14" y="15" width="3" height="2"></rect>
+                        <rect id="Rectangle-29-Copy-3" fill="#F3F1FF" fill-rule="nonzero" x="14" y="18" width="3" height="2"></rect>
+                        <rect id="Rectangle-29-Copy" fill="#F3F1FF" fill-rule="nonzero" x="18" y="15" width="3" height="2"></rect>
+                        <rect id="Rectangle-29-Copy-4" fill="#F3F1FF" fill-rule="nonzero" x="18" y="18" width="3" height="2"></rect>
+                        <rect id="Rectangle-29-Copy-2" fill="#F3F1FF" fill-rule="nonzero" x="22" y="15" width="3" height="2"></rect>
+                        <rect id="Rectangle-29-Copy-5" fill="#F3F1FF" fill-rule="nonzero" x="22" y="18" width="3" height="2"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

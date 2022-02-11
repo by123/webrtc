@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_设备共享</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="20" height="15" rx="2"></rect>
+        <filter x="-55.9%" y="-62.3%" width="211.9%" height="224.6%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="3.33705357" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-48.000000, -568.000000)">
+            <g id="物业服务-copy" transform="translate(0.000000, 351.000000)">
+                <g id="icon_设备共享" transform="translate(48.000000, 217.000000)">
+                    <rect id="Rectangle-33-Copy-3" fill-opacity="0" fill="#D8D8D8" x="0" y="0" width="36" height="36"></rect>
+                    <g id="设备共享" transform="translate(4.000000, 4.000000)">
+                        <rect id="Rectangle-22" fill="#EB8D2D" fill-rule="nonzero" x="7" y="12" width="7" height="13"></rect>
+                        <rect id="Rectangle-19" fill="#FFC654" fill-rule="nonzero" x="5" y="25" width="11" height="4"></rect>
+                        <rect id="Rectangle-18" fill="#FFC654" fill-rule="nonzero" x="24" y="6" width="5" height="2"></rect>
+                        <ellipse id="Oval-4" fill="#EB8D2D" fill-rule="nonzero" cx="22" cy="7" rx="3" ry="4"></ellipse>
+                        <rect id="Rectangle-21-Copy" fill="#EB8D2D" fill-rule="nonzero" x="0" y="2" width="5" height="10" rx="1"></rect>
+                        <g id="Rectangle-20" transform="translate(3.000000, 0.000000)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="Mask" fill="#FFC654" fill-rule="nonzero" xlink:href="#path-1"></use>
+                            <polygon fill="#FFA905" fill-rule="nonzero" filter="url(#filter-3)" mask="url(#mask-2)" points="-4.21052632 0 13.6842105 0 13.6842105 16.0714286 -4.21052632 16.0714286"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

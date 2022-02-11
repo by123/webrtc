@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_访客登记</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="29" height="20" rx="2"></rect>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-26.5%" y="-77.9%" width="152.9%" height="255.8%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="2.69252232" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <polygon id="path-5" points="0 0 6.28571429 0 6.28571429 5.86666667 0 5.86666667"></polygon>
+        <path d="M0,0 L14.5,8.94117647 L29,0 L29,17 C29,18.1045695 28.1045695,19 27,19 L2,19 C0.8954305,19 1.91162759e-15,18.1045695 1.77635684e-15,17 L0,0 Z" id="path-7"></path>
+        <filter x="-33.5%" y="-100.6%" width="167.1%" height="301.2%" filterUnits="objectBoundingBox" id="filter-9">
+            <feGaussianBlur stdDeviation="3.35379464" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-173.000000, -443.000000)">
+            <g id="物业服务-copy" transform="translate(0.000000, 351.000000)">
+                <g id="icon_访客登记" transform="translate(173.000000, 92.000000)">
+                    <rect id="Rectangle-33-Copy" fill-opacity="0" fill="#D8D8D8" x="0" y="0" width="36" height="36"></rect>
+                    <g id="访客登记" transform="translate(4.000000, 3.000000)">
+                        <g id="Rectangle-8" transform="translate(0.000000, 9.000000)">
+                            <mask id="mask-3" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="Mask" fill="#FC868F" fill-rule="nonzero" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <rect fill="#F36570" fill-rule="nonzero" filter="url(#filter-4)" mask="url(#mask-3)" x="-0.763157895" y="0" width="30.5263158" height="10.3703704"></rect>
+                        </g>
+                        <rect id="Rectangle-14" fill="#FFDEE1" fill-rule="nonzero" x="4" y="0" width="22" height="22"></rect>
+                        <g id="个人中心" transform="translate(9.000000, 9.000000)">
+                            <g id="Group-3" transform="translate(0.000000, 5.866667)" fill="#FFFFFF">
+                                <path d="M5.6203279,0.45718538 C4.99731568,0.45718538 4.41727291,0.287863744 3.92352749,0 C1.6541222,0.649935567 0,2.66362482 0,5.05022028 C0,5.07816493 0.00371894094,5.10564312 0.00448065173,5.13333333 L10.9955866,5.13333333 C10.995833,5.10538869 11,5.0779105 11,5.05022028 C10.9995071,2.71879323 9.41929328,0.744815898 7.2325112,0.0478960151 C6.75713646,0.306882214 6.20832383,0.45718538 5.6203279,0.45718538 Z" id="Fill-1"></path>
+                            </g>
+                            <g id="Group-6" transform="translate(2.357143, 0.000000)">
+                                <mask id="mask-6" fill="white">
+                                    <use xlink:href="#path-5"></use>
+                                </mask>
+                                <g id="Clip-5"></g>
+                                <path d="M1.49841235,5.42968332 C1.97722506,5.70461682 2.53944455,5.86666667 3.14307429,5.86666667 C3.71298085,5.86666667 4.24492983,5.72299841 4.70569749,5.47546503 C5.64864366,4.96957604 6.28571429,4.02157631 6.28571429,2.9334144 C6.28597486,1.31319962 4.87865636,0 3.14331315,0 C1.40727507,0 0,1.31319962 0,2.93319147 C0,3.98919066 0.600676517,4.91232356 1.49841235,5.42968332" id="Fill-4" fill="#FFFFFF" mask="url(#mask-6)"></path>
+                            </g>
+                        </g>
+                        <g id="Rectangle-13" transform="translate(0.000000, 11.000000)">
+                            <mask id="mask-8" fill="white">
+                                <use xlink:href="#path-7"></use>
+                            </mask>
+                            <use id="Mask" fill="#FF9FA8" fill-rule="nonzero" xlink:href="#path-7"></use>
+                            <rect fill="#FE6775" fill-rule="nonzero" filter="url(#filter-9)" mask="url(#mask-8)" x="0" y="10" width="30" height="10"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

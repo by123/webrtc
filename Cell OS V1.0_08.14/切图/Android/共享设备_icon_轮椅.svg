@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>共享设备_icon_轮椅</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="共享设备1" transform="translate(-15.000000, -210.000000)">
+            <g id="Group-3" transform="translate(0.000000, 183.000000)">
+                <g id="共享设备_icon_轮椅" transform="translate(15.000000, 27.000000)">
+                    <rect id="Rectangle-3" fill="#D8D8D8" opacity="0.0199999996" x="0" y="0" width="44" height="44"></rect>
+                    <g id="Group-14" transform="translate(2.000000, 0.000000)">
+                        <path d="M10.7791313,1.07634542 L11.8191313,1.07634542 C12.9237008,1.07634542 13.8191313,1.97177592 13.8191313,3.07634542 L13.8191313,12.0967536 L10.7791313,12.0967536 L10.7791313,1.07634542 Z" id="Rectangle-28" fill="#3AA7FF" transform="translate(12.299131, 6.586549) rotate(-15.000000) translate(-12.299131, -6.586549) "></path>
+                        <circle id="Oval" fill="#3AA7FF" cx="12.8367347" cy="31.8367347" r="11.8367347"></circle>
+                        <path d="M17.5510204,24.2653061 L35.1020408,24.2653061 C36.4545749,24.2653061 37.5510204,25.3617516 37.5510204,26.7142857 L17.5510204,26.7142857 L17.5510204,24.2653061 Z" id="Rectangle-27" fill="#3AA7FF"></path>
+                        <path d="M11.8367347,6.75510204 L32.4285714,6.75510204 C34.6377104,6.75510204 36.4285714,8.54596304 36.4285714,10.755102 L36.4285714,21.4081633 L11.8367347,21.4081633 L11.8367347,6.75510204 Z" id="Rectangle-27" fill="#3AA7FF"></path>
+                        <path d="M11.8720093,12 L25.421814,12 C25.9740987,12 26.421814,12.4477153 26.421814,13 L26.421814,13 C26.421814,13.5522847 25.9740987,14 25.421814,14 L11.8720093,14 L11.8720093,12 Z" id="Rectangle-4" fill="#158EF0"></path>
+                        <path d="M29.3877551,29.9795918 L43.2653061,29.9795918 L43.2653061,32.4285714 L31.8367347,32.4285714 C30.4842006,32.4285714 29.3877551,31.3321259 29.3877551,29.9795918 Z" id="Rectangle-27" fill="#3AA7FF" transform="translate(36.326531, 31.204082) scale(-1, 1) rotate(90.000000) translate(-36.326531, -31.204082) "></path>
+                        <rect id="Rectangle-27" fill="#3AA7FF" x="16.3265306" y="29.1632653" width="20" height="2.44897959"></rect>
+                        <path d="M1.51999998,0 L11.4421105,2.22044605e-16 C11.9253003,1.33284083e-16 12.3393775,0.34548937 12.4259346,0.820863147 L12.8299999,3.03999996 L1.51999998,3.03999996 C0.680527172,3.03999996 1.02805769e-16,2.35947279 0,1.51999998 L0,1.51999998 C-1.02805769e-16,0.680527172 0.680527172,1.54208653e-16 1.51999998,0 Z" id="Rectangle-27" fill="#3AA7FF"></path>
+                        <circle id="Oval" fill="#FFFFFF" cx="13" cy="32" r="6"></circle>
+                        <circle id="Oval" fill="#0E7BD4" cx="13" cy="32" r="3"></circle>
+                        <circle id="Oval-7" fill="#3AA7FF" cx="36" cy="39" r="4"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

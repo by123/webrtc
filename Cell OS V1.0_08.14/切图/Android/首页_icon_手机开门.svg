@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_手机开门</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M3.04071706,5.2585871e-15 L18,0 C19.6568542,-3.04359188e-16 21,1.34314575 21,3 L21,23.8453429 C21,25.5021971 19.6568542,26.8453429 18,26.8453429 C17.949751,26.8453429 17.8995099,26.8440804 17.8493243,26.8415566 L3.16110937,26.1029055 C1.58043022,26.0234152 0.333392525,24.7296653 0.312057638,23.1471325 L0.0409896459,3.04044077 C0.0186548256,1.38373707 1.34357258,0.0226074087 3.00027629,0.000272588358 C3.01375578,9.086485e-05 3.02723634,4.44336847e-15 3.04071706,4.4408921e-15 Z" id="path-1"></path>
+        <filter x="-26.8%" y="-18.3%" width="153.5%" height="136.5%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="1.68526786" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <path d="M2.30641672,0.357583987 L16.3064167,2.52812662 C17.2810321,2.67922979 18,3.51825514 18,4.50451444 L18,27.2214423 C18,28.3260118 17.1045695,29.2214423 16,29.2214423 C15.8709582,29.2214423 15.7422193,29.2089536 15.6155837,29.1841507 L1.61558368,26.4421088 C0.677057341,26.2582889 8.03320289e-15,25.4357589 6.21724894e-15,24.4794004 L5.77315973e-15,2.3339718 C5.63788898e-15,1.2294023 0.8954305,0.333971802 2,0.333971802 C2.10259334,0.333971802 2.2050346,0.34186583 2.30641672,0.357583987 Z" id="path-4"></path>
+        <filter x="-50.5%" y="-52.3%" width="201.1%" height="204.7%" filterUnits="objectBoundingBox" id="filter-6">
+            <feGaussianBlur stdDeviation="3.52120536" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <path d="M2.27265199,0.107137184 L12.272652,1.48324444 C13.262534,1.61946282 14,2.46536188 14,3.4645725 L14,17.8863081 C14,18.9908776 13.1045695,19.8863081 12,19.8863081 C11.8851804,19.8863081 11.770574,19.8764204 11.657451,19.8567548 L1.65745097,18.1183214 C0.699412868,17.9517729 5.89224524e-15,17.1202817 5.77315973e-15,16.1478747 L6.21724894e-15,2.08846525 C6.08197819e-15,0.983895747 0.8954305,0.0884652467 2,0.0884652467 C2.09120342,0.0884652467 2.18230004,0.0947037865 2.27265199,0.107137184 Z" id="path-7"></path>
+        <filter x="-65.6%" y="-72.9%" width="231.2%" height="245.9%" filterUnits="objectBoundingBox" id="filter-9">
+            <feGaussianBlur stdDeviation="3.52120536" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-48.000000, -443.000000)">
+            <g id="物业服务-copy" transform="translate(0.000000, 351.000000)">
+                <g id="icon_手机开门" transform="translate(48.000000, 92.000000)">
+                    <rect id="Rectangle-33" fill-opacity="0" fill="#D8D8D8" x="0" y="0" width="36" height="36"></rect>
+                    <g id="手机开门" transform="translate(8.000000, 3.000000)">
+                        <g id="Rectangle-9">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="Mask" fill="#6497C3" fill-rule="nonzero" xlink:href="#path-1"></use>
+                            <rect fill="#3B668B" fill-rule="nonzero" filter="url(#filter-3)" mask="url(#mask-2)" x="0.7" y="0" width="18.9" height="27.6923077"></rect>
+                        </g>
+                        <g id="Rectangle-11">
+                            <mask id="mask-5" fill="white">
+                                <use xlink:href="#path-4"></use>
+                            </mask>
+                            <use id="Mask" fill="#9FD3FF" fill-rule="nonzero" xlink:href="#path-4"></use>
+                            <rect fill="#61A1D9" fill-rule="nonzero" filter="url(#filter-6)" mask="url(#mask-5)" x="-1.16129032" y="8.31271648" width="20.9032258" height="20.1880257"></rect>
+                        </g>
+                        <g id="Rectangle-11" transform="translate(2.000000, 3.000000)">
+                            <mask id="mask-8" fill="white">
+                                <use xlink:href="#path-7"></use>
+                            </mask>
+                            <use id="Mask" fill="#E6F4FF" fill-rule="nonzero" xlink:href="#path-7"></use>
+                            <rect fill="#D5EBFF" fill-rule="nonzero" filter="url(#filter-9)" mask="url(#mask-8)" x="-0.7" y="5.51724138" width="16.1" height="14.4827586"></rect>
+                        </g>
+                        <circle id="Oval" fill="#BCE0FF" fill-rule="nonzero" cx="8.5" cy="25.5" r="1.5"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
